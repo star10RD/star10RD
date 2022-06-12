@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"> 
-  <img align="center" src="https://hit.yhype.me/github/profile?user_id=58112601" alt="hashirshoaeb profile views"/>
+  <img align="center" src="https://hit.yhype.me/github/profile?user_id=58112601" alt="star10RD profile views"/>
 </p>
