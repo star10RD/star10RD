@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <h3 align="center">Hi 👋, I'm Hashir</h3>
+</p>
 
 <!--
 **star10RD/star10RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://hit.yhype.me/github/profile?user_id=58112601)
